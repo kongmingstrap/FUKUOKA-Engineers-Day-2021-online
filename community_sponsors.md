@@ -12,9 +12,10 @@
 
 ## [Scala福岡](https://scala.connpass.com/)
 
-<img src="https://user-images.githubusercontent.com/1201992/58236209-5ca1c380-7d7d-11e9-816f-f82423d00d1b.png" width="200">
+<img src="Images/Logos/scala_fukuoka.png" width="200">
 
 Scala福岡は、Scalaを福岡・九州で盛り上げていきたい、まずはイベントやってみようじゃないか。 ということで2016年から始まりました。これまで3回の100名規模のイベントを開催し、Scalaを広げたいという思いから、毎回ハンズオンなどの初学者向けコンテンツを準備するなどといった工夫をしています。またScala福岡とは直接関係ありませんが、コミュニティメンバーによって「サルでもわかるScala」という少人数での勉強会を、これまで隔週で70回ほど開催しています。
+2020年12月より、Discordを使ったオンラインでのもくもく会を毎週火曜日の19:00~21:00で行っております。
 
 ## [Javaコミュ＠福岡](https://javaq.connpass.com/)
 
