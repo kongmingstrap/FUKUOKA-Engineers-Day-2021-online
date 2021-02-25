@@ -39,9 +39,11 @@ SORACOM User Groupは、IoTプラットフォーム「SORACOM」の情報を知�
 
 TBD
 
-## 女子だらけの電子工作
+## [女子だらけの電子工作](https://jyoshidarake.connpass.com/)
 
-TBD
+<img src="https://user-images.githubusercontent.com/1201992/109097279-62061c00-7762-11eb-8207-de95027c7964.jpg" height="200">
+
+電子工作やIoTの勉強会は男性ばかりで、女子は参加し辛い・・・ という声から活動を開始し、女性やお子さんが、安心できて、ゆるりと電子工作を楽しめる場所になればと活動をしてきました。最近は、オンライン開催ということで、老若男女、可愛い電子工作に興味がある方は、どなたでも参加することができます。初心者大歓迎！一緒に楽しみましょう！
 
 ## LINE Developer Group Q-shu
 
