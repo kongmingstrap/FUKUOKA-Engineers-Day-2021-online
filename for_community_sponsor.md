@@ -1,5 +1,4 @@
-# FUKUOKA Engineers Day 
-コミュニティスポンサー（セッション枠）募集要項
+# コミュニティスポンサー（セッション枠）募集要項
 
 ## 募集の目的
 
@@ -39,7 +38,7 @@
 - イベント名: FUKUOKA Engineers Day 2021 -online-
 - 場所: [エンジニアカフェ](https://engineercafe.jp/ja/)（配信拠点としての利用）
   - 登壇者は各自の自宅から配信
-  - 自宅からの配信が難しい場合は、 [エンジニアカフェ](https://engineercafe.jp/ja/) から登壇することは可能です
+  - 自宅からの配信が難しい場合は、[エンジニアカフェ](https://engineercafe.jp/ja/) から登壇することは可能です
 - 配信ツール
   - Zoom（予定）
   - Youtube Live （予定）
