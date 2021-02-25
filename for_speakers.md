@@ -38,4 +38,4 @@
 
 ## その他
 
-当団体の [Code Of Contact](https://github.com/kongmingstrap/FUKUOKA-Engineers-Day-2019-Summer/blob/main/code_of_contact.md) へのご理解、ご協力をお願いします。
+当団体の [Code Of Contact](https://github.com/kongmingstrap/FUKUOKA-Engineers-Day-2021-online/blob/main/code_of_contact.md) へのご理解、ご協力をお願いします。

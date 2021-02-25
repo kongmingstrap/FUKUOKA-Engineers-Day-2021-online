@@ -27,7 +27,7 @@
 - 質問時間: 5分
 - 最大20分とさせていただきます
 
-その他の詳細については [スピーカーへのお願い](https://github.com/kongmingstrap/FUKUOKA-Engineers-Day-2019-Summer/blob/main/for_speakers.md) を参照してください。
+その他の詳細については [スピーカーへのお願い](https://github.com/kongmingstrap/FUKUOKA-Engineers-Day-2021-online/blob/main/for_speakers.md) を参照してください。
 
 ### コミュニティのロゴおよび団体名の使用許可
 
