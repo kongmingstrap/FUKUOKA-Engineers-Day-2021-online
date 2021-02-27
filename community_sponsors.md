@@ -69,3 +69,11 @@ TBD
 ## FUKUOKA NIWAKA
 
 TBD
+
+## [GBEC Park](https://gbec.connpass.com/)
+
+<img src="https://user-images.githubusercontent.com/1201992/61120316-abdfb700-a4d7-11e9-8a35-6ca5de90f700.png" height="200">
+
+GBEC Parkは福岡のブロックチェーンに関わる技術者が集まるコミュニティです。
+ブロックチェーンへの興味・関心があれば誰でも参加可能です。
+2018年より『福岡ブロックチェーン勉強会・もくもく会』を隔週で開催しています。オンラインでの開催ですので、全国どこからでも参加可能です。
