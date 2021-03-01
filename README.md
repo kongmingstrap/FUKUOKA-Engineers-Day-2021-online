@@ -21,6 +21,7 @@
 
 - 場所: [エンジニアカフェ](https://engineercafe.jp/ja/)（配信拠点としての利用）
   - 登壇者は各自の自宅から配信
+  - 自宅からの配信が困難な場合は [エンジニアカフェ](https://engineercafe.jp/ja/) より登壇できます
 - 配信ツール
   - Zoom（予定）
   - Youtube Live （予定）
