@@ -12,7 +12,7 @@
 
 ## [Scala福岡](https://scala.connpass.com/)
 
-<img src="Images/Logos/scala_fukuoka.png" width="200">
+<img src="https://user-images.githubusercontent.com/1201992/109440581-232fd900-7a76-11eb-8aee-37dfb64af38f.png" width="200">
 
 Scala福岡は、Scalaを福岡・九州で盛り上げていきたい、まずはイベントやってみようじゃないか。 ということで2016年から始まりました。これまで3回の100名規模のイベントを開催し、Scalaを広げたいという思いから、毎回ハンズオンなどの初学者向けコンテンツを準備するなどといった工夫をしています。またScala福岡とは直接関係ありませんが、コミュニティメンバーによって「サルでもわかるScala」という少人数での勉強会を、これまで隔週で70回ほど開催しています。
 2020年12月より、Discordを使ったオンラインでのもくもく会を毎週火曜日の19:00~21:00で行っております。
@@ -23,11 +23,10 @@ Javaコミュ＠福岡は、JavaやJVMに関するイベントを年に数回行
 
 ## [VUI Fukuoka](https://vuifukuoka.connpass.com/)
 
-<img src="https://user-images.githubusercontent.com/1201992/59498358-3e3c6d00-8ed0-11e9-8ca7-30b311c21612.png" height="200">
+<img src="https://user-images.githubusercontent.com/1201992/109440551-0eebdc00-7a76-11eb-9357-7d730dcb2dcd.png" width="200">
 
-Amazon Echo(Alexa)、LINE Clova、Google Homeなど
-VUIに関する情報交換の場にしたいと思います。
-ハンズオンからもくもく会までやっていきます。
+VUI Fukuokaは、スマートスピーカー（Amazon Echo(Alexa)、Google Home、LINE Clova）のスキル開発など、VoiceUIに関するコミュニティです。
+ノンコーディングでスキルを作成可能なツールもありますし、開発者以外の方、デザイナーさんなども大歓迎です！
 
 ## [SORACOM UG九州](https://pages.soracom.jp/usergroup.html)
 
@@ -42,7 +41,7 @@ TBD
 
 ## [女子だらけの電子工作](https://jyoshidarake.connpass.com/)
 
-<img src="https://user-images.githubusercontent.com/1201992/109097279-62061c00-7762-11eb-8207-de95027c7964.jpg" height="200">
+<img src="https://user-images.githubusercontent.com/1201992/109097279-62061c00-7762-11eb-8207-de95027c7964.jpg" width="200">
 
 電子工作やIoTの勉強会は男性ばかりで、女子は参加し辛い・・・ という声から活動を開始し、女性やお子さんが、安心できて、ゆるりと電子工作を楽しめる場所になればと活動をしてきました。最近は、オンライン開催ということで、老若男女、可愛い電子工作に興味がある方は、どなたでも参加することができます。初心者大歓迎！一緒に楽しみましょう！
 
@@ -56,7 +55,7 @@ TBD
 
 ## [FukuokaJS](https://fukuokajs.connpass.com/)
 
-<img src="https://user-images.githubusercontent.com/1201992/58455699-49b43800-815d-11e9-9ade-076a3891e3b8.png" height="200">
+<img src="https://user-images.githubusercontent.com/1201992/58455699-49b43800-815d-11e9-9ade-076a3891e3b8.png" width="200">
 
 フロントエンドからバックエンドまで一貫して記述出来るJavascript。はたまた、3Dコンテンツや、デスクトップアプリ、ネイティブアプリまで。　幅広いがゆえに、いろんな人が使っているJavascriptです。
 
@@ -72,7 +71,7 @@ TBD
 
 ## [GBEC Park](https://gbec.connpass.com/)
 
-<img src="https://user-images.githubusercontent.com/1201992/61120316-abdfb700-a4d7-11e9-8a35-6ca5de90f700.png" height="200">
+<img src="https://user-images.githubusercontent.com/1201992/61120316-abdfb700-a4d7-11e9-8a35-6ca5de90f700.png" width="200">
 
 GBEC Parkは福岡のブロックチェーンに関わる技術者が集まるコミュニティです。
 ブロックチェーンへの興味・関心があれば誰でも参加可能です。
