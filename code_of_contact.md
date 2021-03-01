@@ -1,7 +1,5 @@
 # 行動規範: Code of Contact
 
-
-
 ## １．目的
 
 [FUKUOKA Engineers Day](https://engineers-day.connpass.com/)（以降、当団体）は、なによりも福岡を愛するエンジニアの皆様のためのコミュニティであるべきだと考えます。
