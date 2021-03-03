@@ -143,7 +143,11 @@ TBD
 
 ## FUKUOKA NIWAKA
 
-TBD
+<img src="https://user-images.githubusercontent.com/1201992/109750275-7db86900-7c1f-11eb-8171-05194b9e12f1.png" width="200">
+
+「日本のロボットは面白くない」
+弊チームの創設者である古賀さんが，中国を訪れた際に現地で言われた言葉をきっかけに，このチームは立ち上がりました．
+学生，社会人が一体となって，日本のエンジニアが持つ技術力を世界に示すべく，毎年８月に中国深センで開催される国際的なロボットコンテスト，Robomasterに出場し優勝を目指しています．
 
 ## [GBEC Park](https://gbec.connpass.com/)
 
