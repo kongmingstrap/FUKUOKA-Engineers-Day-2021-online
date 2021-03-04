@@ -49,7 +49,12 @@ TBD
 
 TBD
 
-## Fukuoka.go
+## [Fukuoka.go](https://fukuokago.connpass.com/)
+
+![logo_icon](https://user-images.githubusercontent.com/8141624/109894508-f62b3280-7cd0-11eb-9f06-6a0247927304.png)
+
+福岡でGo言語やりたい、やってる人が集まって情報交換や、もくもくしたりするコミュニティです。  
+だんだんとプロダクション環境でも利用されてきたGo言語。やったことある人も、そうでない人も、集まって情報交換しましょう。
 
 TBD
 
