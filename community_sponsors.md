@@ -56,8 +56,6 @@ TBD
 福岡でGo言語やりたい、やってる人が集まって情報交換や、もくもくしたりするコミュニティです。  
 だんだんとプロダクション環境でも利用されてきたGo言語。やったことある人も、そうでない人も、集まって情報交換しましょう。
 
-TBD
-
 ## [FukuokaJS](https://fukuokajs.connpass.com/)
 
 <img src="https://user-images.githubusercontent.com/1201992/58455699-49b43800-815d-11e9-9ade-076a3891e3b8.png" width="200">
