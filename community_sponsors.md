@@ -68,7 +68,11 @@ TBD
 
 ## [ゆるっとIT](https://yurutto-it.connpass.com/)
 
-TBD
+<img width="200" alt="bQegw5KU" src="https://user-images.githubusercontent.com/3326643/110051957-1672f400-7d9a-11eb-8d8b-e5569e574483.png">
+
+ゆるっとITは主催者が聞いてみたいIT系のネタを福岡にいる誰かにおねだりして話してもらう会だよ。
+他にも主催者の悪ノリでイベントの開催とかもしてるよ。
+最近は雑にこんなイベントやってとネタを投げつけられるよ。
 
 ## FUKUOKA NIWAKA
 
