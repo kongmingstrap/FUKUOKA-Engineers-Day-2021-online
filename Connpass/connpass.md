@@ -111,9 +111,11 @@ VUI Fukuokaは、スマートスピーカー（Amazon Echo(Alexa)、Google Home�
 SORACOM User Groupは、IoTプラットフォーム「SORACOM」の情報を知りたい人、使ってみたい人、使っている人、より良い使い方を知りたい人は誰でも参加出来るコミュニティです。
 その九州支部である「SORACOM UG九州」は、3ヶ月に1回程度、九州各地でセミナーやハンズオンを行っています。SORACOMのサービスやIoTに興味のある方は是非ご参加下さい！
 
-## ARコンテンツ作成勉強会
+## [ARコンテンツ作成勉強会](https://xr-fukuoka.connpass.com/)
 
-TBD
+<img src="https://user-images.githubusercontent.com/1201992/110259303-55978400-7fea-11eb-81ae-25cd98b4063b.png" height="200">
+
+XR(ARやVR)技術を用いたコンテンツ開発方法やセンサデバイスの使い方、XRの土台になる技術などを実際に体験しながら勉強しようというハンズオン形式の勉強会です。また、HMDやモーションキャプチャなど各種デバイスの体験会や他コミュニティと連携した技術交流LT会なども開催しています。コロナ後も変わらずオンラインでイベント開催中。初心者大歓迎。詳しくはハッシュタグ #AR_Fukuoka にて。
 
 ## [女子だらけの電子工作](https://jyoshidarake.connpass.com/)
 
@@ -125,9 +127,12 @@ TBD
 
 TBD
 
-## Fukuoka.go
+## [Fukuoka.go](https://fukuokago.connpass.com/)
 
-TBD
+![logo_icon](https://user-images.githubusercontent.com/8141624/109894508-f62b3280-7cd0-11eb-9f06-6a0247927304.png)
+
+福岡でGo言語やりたい、やってる人が集まって情報交換や、もくもくしたりするコミュニティです。  
+だんだんとプロダクション環境でも利用されてきたGo言語。やったことある人も、そうでない人も、集まって情報交換しましょう。
 
 ## [FukuokaJS](https://fukuokajs.connpass.com/)
 
@@ -139,7 +144,11 @@ TBD
 
 ## [ゆるっとIT](https://yurutto-it.connpass.com/)
 
-TBD
+<img width="200" alt="bQegw5KU" src="https://user-images.githubusercontent.com/3326643/110051957-1672f400-7d9a-11eb-8d8b-e5569e574483.png">
+
+ゆるっとITは主催者が聞いてみたいIT系のネタを福岡にいる誰かにおねだりして話してもらう会だよ。
+他にも主催者の悪ノリでイベントの開催とかもしてるよ。
+最近は雑にこんなイベントやってとネタを投げつけられるよ。
 
 ## FUKUOKA NIWAKA
 
@@ -176,6 +185,10 @@ Microsoftも今では様々なアーキテクトをオープンソースで公�
 Fukuoka.rbは福岡周辺のRubyistが集まり、Rubyに関係したり関係しなかったりすることについて活動する地域Rubyistコミュニティです。
 なるべく毎週水曜日にミートアップを設けています。「もくもく会」形式が多いですが、時々LTをしたり、西鉄沿線の美味しいものを食べに行ったりします。
 福岡でRubyを触っている人がプライマリーに立ち寄れる居場所になるようなコミュニティを目指しています。是非お気軽にお越しください。
+
+## Fukuoka.flutter
+
+TBD
 
 ---
 # 行動規範: Code of Contact
