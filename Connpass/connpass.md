@@ -76,7 +76,11 @@
 ---
 # ゲストセッション
 
-- [yohey](https://yoheikoga.github.io/) さん
+## 古賀 洋平 (こが ようへい) さん
+
+<img src="https://user-images.githubusercontent.com/1201992/110313036-3bd95980-8049-11eb-9253-644d1c32e8ad.png" width="200">
+
+TBD
 
 # コミュニティスポンサー（セッション枠）
 
