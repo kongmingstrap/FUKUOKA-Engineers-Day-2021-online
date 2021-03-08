@@ -66,7 +66,7 @@
 | 17:50 | 18:10 | 0:20 | [Fukuoka.go](https://fukuokago.connpass.com/) | 未定 |
 | 18:10 | 18:20 | 0:10 | 休憩 | |
 | 18:20 | 18:40 | 0:20 | [VUI Fukuoka](https://vuifukuoka.connpass.com/) | 未定 |
-| 18:40 | 19:00 | 0:20 | [SORACOM UG九州](https://pages.soracom.jp/usergroup.html) | 未定 |
+| 18:40 | 19:00 | 0:20 | [SORACOM UG九州](https://soracom-ug.jp/) | 未定 |
 | 19:00 | 19:20 | 0:20 | [Javaコミュ＠福岡](https://javaq.connpass.com/) | 未定 |
 | 19:20 | 19:40 | 0:20 | FUKUOKA NIWAKA | 未定 |
 | 19:40 | 20:00 | 0:20 | 撤収 | |
@@ -104,12 +104,12 @@ Javaコミュ＠福岡は、JavaやJVMに関するイベントを年に数回行
 VUI Fukuokaは、スマートスピーカー（Amazon Echo(Alexa)、Google Home、LINE Clova）のスキル開発など、VoiceUIに関するコミュニティです。
 ノンコーディングでスキルを作成可能なツールもありますし、開発者以外の方、デザイナーさんなども大歓迎です！
 
-## [SORACOM UG九州](https://pages.soracom.jp/usergroup.html)
+## [SORACOM UG九州](https://soracom-ug.jp/)
 
 <img src="https://user-images.githubusercontent.com/1201992/58855150-2b19d980-8654-11e9-838d-6d8d22ae510b.png" height="200">
 
-SORACOM User Groupは、IoTプラットフォーム「SORACOM」の情報を知りたい人、使ってみたい人、使っている人、より良い使い方を知りたい人は誰でも参加出来るコミュニティです。
-その九州支部である「SORACOM UG九州」は、3ヶ月に1回程度、九州各地でセミナーやハンズオンを行っています。SORACOMのサービスやIoTに興味のある方は是非ご参加下さい！
+SORACOM User Groupは、IoTプラットフォーム「SORACOM」の情報を知りたい人、使ってみたい人、使っている人、より良い使い方を知りたい人は誰でも参加出来るコミュニティです。 「SORACOM UG 九州」はその九州支部で、3ヶ月に1回程度九州各地でセミナーやハンズオンを行っていましたが、現在は主にオンラインで全国の支部と共同で活動をしています。
+SORACOMのサービスやIoTに興味のある方は是非ご参加下さい！
 
 ## [ARコンテンツ作成勉強会](https://xr-fukuoka.connpass.com/)
 

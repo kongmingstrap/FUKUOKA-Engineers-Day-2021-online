@@ -22,7 +22,7 @@
 | 17:50 | 18:10 | 0:20 | [Fukuoka.go](https://fukuokago.connpass.com/) | 未定 |
 | 18:10 | 18:20 | 0:10 | 休憩 | |
 | 18:20 | 18:40 | 0:20 | [VUI Fukuoka](https://vuifukuoka.connpass.com/) | 未定 |
-| 18:40 | 19:00 | 0:20 | [SORACOM UG九州](https://pages.soracom.jp/usergroup.html) | 未定 |
+| 18:40 | 19:00 | 0:20 | [SORACOM UG九州](https://soracom-ug.jp/) | 未定 |
 | 19:00 | 19:20 | 0:20 | [Javaコミュ＠福岡](https://javaq.connpass.com/) | 未定 |
 | 19:20 | 19:40 | 0:20 | FUKUOKA NIWAKA | 未定 |
 | 19:40 | 20:00 | 0:20 | 撤収 | |
