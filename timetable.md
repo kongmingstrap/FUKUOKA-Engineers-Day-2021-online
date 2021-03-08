@@ -7,7 +7,7 @@
 | 13:30 | 13:40 | 0:10 | 休憩 | |
 | 13:40 | 14:00 | 0:20 | [Scala福岡](https://scala.connpass.com/) | 未定 |
 | 14:00 | 14:20 | 0:20 | [FukuokaJS](https://fukuokajs.connpass.com/) | 未定 |
-| 14:20 | 14:40 | 0:20 | LINE Developer Group Q-shu | 未定 |
+| 14:20 | 14:40 | 0:20 | [GBEC Park](https://gbec.connpass.com/) | 未定 |
 | 14:40 | 14:50 | 0:10 | 休憩 | |
 | 14:50 | 15:10 | 0:20 | [ゆるっとIT](https://yurutto-it.connpass.com/) | 未定 |
 | 15:10 | 15:30 | 0:20 | [Fukuoka.rb](https://fukuokarb.connpass.com/) | 未定 |
@@ -18,7 +18,7 @@
 | 16:40 | 17:00 | 0:20 | [福岡XR部](https://fukuoka-xr-club.connpass.com/) | 未定 |
 | 17:00 | 17:10 | 0:10 | 休憩 | |
 | 17:10 | 17:30 | 0:20 | Fukuoka.flutter | 未定 |
-| 17:30 | 17:50 | 0:20 | [GBEC Park](https://gbec.connpass.com/) | 未定 |
+| 17:30 | 17:50 | 0:20 | LINE Developer Group Q-shu | 未定 |
 | 17:50 | 18:10 | 0:20 | [Fukuoka.go](https://fukuokago.connpass.com/) | 未定 |
 | 18:10 | 18:20 | 0:10 | 休憩 | |
 | 18:20 | 18:40 | 0:20 | [VUI Fukuoka](https://vuifukuoka.connpass.com/) | 未定 |
