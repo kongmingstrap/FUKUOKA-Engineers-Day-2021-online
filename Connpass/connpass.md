@@ -88,7 +88,7 @@
 
 ## [古賀 洋平 (こが ようへい)](https://twitter.com/KYhei) さん
 
-<img src="https://user-images.githubusercontent.com/1201992/110313036-3bd95980-8049-11eb-9253-644d1c32e8ad.png" width="200">
+<img src="https://user-images.githubusercontent.com/1201992/110313036-3bd95980-8049-11eb-9253-644d1c32e8ad.png" width="250">
 
 **satellite AIT Engineer, Ground Station Engineer with AWS**
 
@@ -102,7 +102,7 @@
 
 ## [Scala福岡](https://scala.connpass.com/)
 
-<img src="https://user-images.githubusercontent.com/1201992/109440581-232fd900-7a76-11eb-8aee-37dfb64af38f.png" height="200">
+<img src="https://user-images.githubusercontent.com/1201992/109440581-232fd900-7a76-11eb-8aee-37dfb64af38f.png" width="250">
 
 Scala福岡は、Scalaを福岡・九州で盛り上げていきたい、まずはイベントやってみようじゃないか。 ということで2016年から始まりました。これまで3回の100名規模のイベントを開催し、Scalaを広げたいという思いから、毎回ハンズオンなどの初学者向けコンテンツを準備するなどといった工夫をしています。またScala福岡とは直接関係ありませんが、コミュニティメンバーによって「サルでもわかるScala」という少人数での勉強会を、これまで隔週で70回ほど開催しています。
 2020年12月より、Discordを使ったオンラインでのもくもく会を毎週火曜日の19:00~21:00で行っております。
@@ -113,33 +113,33 @@ Javaコミュ＠福岡は、JavaやJVMに関するイベントを年に数回行
 
 ## [VUI Fukuoka](https://vuifukuoka.connpass.com/)
 
-<img src="https://user-images.githubusercontent.com/1201992/109440551-0eebdc00-7a76-11eb-9357-7d730dcb2dcd.png" width="400">
+<img src="https://user-images.githubusercontent.com/1201992/109440551-0eebdc00-7a76-11eb-9357-7d730dcb2dcd.png" width="250">
 
 VUI Fukuokaは、スマートスピーカー（Amazon Echo(Alexa)、Google Home、LINE Clova）のスキル開発など、VoiceUIに関するコミュニティです。
 ノンコーディングでスキルを作成可能なツールもありますし、開発者以外の方、デザイナーさんなども大歓迎です！
 
 ## [SORACOM UG九州](https://soracom-ug.jp/)
 
-<img src="https://user-images.githubusercontent.com/1201992/58855150-2b19d980-8654-11e9-838d-6d8d22ae510b.png" height="250">
+<img src="https://user-images.githubusercontent.com/1201992/58855150-2b19d980-8654-11e9-838d-6d8d22ae510b.png" width="250">
 
 SORACOM User Groupは、IoTプラットフォーム「SORACOM」の情報を知りたい人、使ってみたい人、使っている人、より良い使い方を知りたい人は誰でも参加出来るコミュニティです。 「SORACOM UG 九州」はその九州支部で、3ヶ月に1回程度九州各地でセミナーやハンズオンを行っていましたが、現在は主にオンラインで全国の支部と共同で活動をしています。
 SORACOMのサービスやIoTに興味のある方は是非ご参加下さい！
 
 ## [ARコンテンツ作成勉強会](https://xr-fukuoka.connpass.com/)
 
-<img src="https://user-images.githubusercontent.com/1201992/110259303-55978400-7fea-11eb-81ae-25cd98b4063b.png" height="250">
+<img src="https://user-images.githubusercontent.com/1201992/110259303-55978400-7fea-11eb-81ae-25cd98b4063b.png" width="250">
 
 XR(ARやVR)技術を用いたコンテンツ開発方法やセンサデバイスの使い方、XRの土台になる技術などを実際に体験しながら勉強しようというハンズオン形式の勉強会です。また、HMDやモーションキャプチャなど各種デバイスの体験会や他コミュニティと連携した技術交流LT会なども開催しています。コロナ後も変わらずオンラインでイベント開催中。初心者大歓迎。詳しくはハッシュタグ #AR_Fukuoka にて。
 
 ## [女子だらけの電子工作](https://jyoshidarake.connpass.com/)
 
-<img src="https://user-images.githubusercontent.com/1201992/109097279-62061c00-7762-11eb-8207-de95027c7964.jpg" height="250">
+<img src="https://user-images.githubusercontent.com/1201992/109097279-62061c00-7762-11eb-8207-de95027c7964.jpg" width="250">
 
 電子工作やIoTの勉強会は男性ばかりで、女子は参加し辛い・・・ という声から活動を開始し、女性やお子さんが、安心できて、ゆるりと電子工作を楽しめる場所になればと活動をしてきました。最近は、オンライン開催ということで、老若男女、可愛い電子工作に興味がある方は、どなたでも参加することができます。初心者大歓迎！一緒に楽しみましょう！
 
 ## [LINE Developer Group Q-shu](https://linedevkyushu.connpass.com/)
 
-<img src="https://user-images.githubusercontent.com/1201992/110422836-7099ef00-80e3-11eb-85b3-ff137abd35ba.jpg" width="400">
+<img src="https://user-images.githubusercontent.com/1201992/110422836-7099ef00-80e3-11eb-85b3-ff137abd35ba.jpg" width="250">
 
 LINEが提供しているプロダクトを中心とした技術を取り扱っており、LINE Bot開発や、LINE Payを絡めた決済プロダクトの勘所、LINEミニアプリについての知見などの情報を共有するだけでなく、参加者が実際に手を動かしながら技術の習得ができるようハンズオン形式での勉強会やイベントを定期的に開催しています。また全国のLINE開発者コミュニティと連携した大規模カンファレンスや、学生と連携したイベントを行うこともあります。技術、ビジネスなど特定の枠にとらわれない幅広い活動を目指しています。ぜひお気軽にご参加ください！
 また、昨年はエンジニアフレンドリーシティ福岡アワード 2020の受賞もいただきました！これからも皆さんと楽しく盛り上がっていければと思います！
@@ -153,7 +153,7 @@ LINEが提供しているプロダクトを中心とした技術を取り扱っ�
 
 ## [FukuokaJS](https://fukuokajs.connpass.com/)
 
-<img src="https://user-images.githubusercontent.com/1201992/58455699-49b43800-815d-11e9-9ade-076a3891e3b8.png" width="400">
+<img src="https://user-images.githubusercontent.com/1201992/58455699-49b43800-815d-11e9-9ade-076a3891e3b8.png" width="250">
 
 フロントエンドからバックエンドまで一貫して記述出来るJavascript。はたまた、3Dコンテンツや、デスクトップアプリ、ネイティブアプリまで。　幅広いがゆえに、いろんな人が使っているJavascriptです。
 
@@ -161,7 +161,7 @@ LINEが提供しているプロダクトを中心とした技術を取り扱っ�
 
 ## [ゆるっとIT](https://yurutto-it.connpass.com/)
 
-<img src="https://user-images.githubusercontent.com/3326643/110051957-1672f400-7d9a-11eb-8d8b-e5569e574483.png" width="400">
+<img src="https://user-images.githubusercontent.com/3326643/110051957-1672f400-7d9a-11eb-8d8b-e5569e574483.png" width="250">
 
 ゆるっとITは主催者が聞いてみたいIT系のネタを福岡にいる誰かにおねだりして話してもらう会だよ。
 他にも主催者の悪ノリでイベントの開催とかもしてるよ。
@@ -169,7 +169,7 @@ LINEが提供しているプロダクトを中心とした技術を取り扱っ�
 
 ## FUKUOKA NIWAKA
 
-<img src="https://user-images.githubusercontent.com/1201992/109750275-7db86900-7c1f-11eb-8171-05194b9e12f1.png" width="400">
+<img src="https://user-images.githubusercontent.com/1201992/109750275-7db86900-7c1f-11eb-8171-05194b9e12f1.png" width="250">
 
 「日本のロボットは面白くない」
 弊チームの創設者である古賀さんが，中国を訪れた際に現地で言われた言葉をきっかけに，このチームは立ち上がりました．
@@ -177,7 +177,7 @@ LINEが提供しているプロダクトを中心とした技術を取り扱っ�
 
 ## [GBEC Park](https://gbec.connpass.com/)
 
-<img src="https://user-images.githubusercontent.com/1201992/61120316-abdfb700-a4d7-11e9-8a35-6ca5de90f700.png" width="400">
+<img src="https://user-images.githubusercontent.com/1201992/61120316-abdfb700-a4d7-11e9-8a35-6ca5de90f700.png" width="250">
 
 GBEC Parkは福岡のブロックチェーンに関わる技術者が集まるコミュニティです。
 ブロックチェーンへの興味・関心があれば誰でも参加可能です。
@@ -185,7 +185,7 @@ GBEC Parkは福岡のブロックチェーンに関わる技術者が集まる�
 
 ## [Fukuoka.NET（ふくてん）](https://fukuten.connpass.com/)
 
-<img src="https://user-images.githubusercontent.com/1201992/60481623-19fecf80-9cc9-11e9-9e91-d7ee5db26004.png" height="250">
+<img src="https://user-images.githubusercontent.com/1201992/60481623-19fecf80-9cc9-11e9-9e91-d7ee5db26004.png" width="250">
 
 C#やVB.NETなどMicrosoftの.NETに関するコミュニティです。通称「ふくてん」。
 
